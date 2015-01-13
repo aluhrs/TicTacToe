@@ -1,1 +1,1 @@
-Go to [this page](www.aluhrs.github.io/TicTacToe) to play Tic Tac Toe!
+Go to [this page](aluhrs.github.io/TicTacToe) to play Tic Tac Toe!
